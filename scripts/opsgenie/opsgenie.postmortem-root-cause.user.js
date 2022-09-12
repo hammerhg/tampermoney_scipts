@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    const rootURL = "https://pagerduty.webbfontaine.com";
+    const rootURL = "https://opsgenie.webbfontaine.com";
 
     function addGlobalStyle(css) {
         var head, style;
